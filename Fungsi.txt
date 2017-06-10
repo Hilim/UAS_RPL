@@ -1,0 +1,4 @@
+1.	Agar seseorang dapat mengembangkan perangkat lunak yang bermanfaat bagi user
+2.	Agar seseorang mampu mengembangkan perangkat lunak yang sudah ada menjadi lebih baik lagi.
+3.	Menciptakan sebuah perangkat lunak yang ramah dan user friendly
+4.	Agar sebuah sistem perangkat lunak bisa diintegrasikan dengan peralatan mekanikal yang ada, sehingga menjadi lebih bermanfaat.
